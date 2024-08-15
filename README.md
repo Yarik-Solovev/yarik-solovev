@@ -1,8 +1,9 @@
-# Hi! My name is Stefan Topalović 😄
+# Hi! My name is Yaroslav Solovev
 
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
+### 🌍  I am a Frontend Developer based in Moscow, Russia.
+
 <br/>
 
-### Skills
+## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)](https://skillicons.dev)
