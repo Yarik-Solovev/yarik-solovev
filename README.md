@@ -1,4 +1,4 @@
-# Hi! My name is Yaroslav Solovev
+# Hi! My name is Yaroslav Solovev 👋🏻
 
 ### 🌍  I am a Frontend Developer based in Moscow, Russia.
 
